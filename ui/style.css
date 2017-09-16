@@ -20,3 +20,9 @@ body {
     height: 200px;
 }
 
+ .container{
+                color: #997272;
+                font-family: sans-serif;
+                padding-top: 46;
+                padding-left: 95;
+                }
